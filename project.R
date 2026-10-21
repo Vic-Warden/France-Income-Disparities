@@ -1,13 +1,4 @@
 # ======================================================================
-# Disparites territoriales des niveaux de vie en France
-# INSEE Filosofi 2018 - revenus declares a l'IRIS
-# Data Exploration and Visualization - Z. Assaghir - 2026-2027
-#
-# Data file: datasets.xlsx (same folder as this script)
-# ======================================================================
- 
- 
-# ======================================================================
 # OBJECTIF DE CETTE ANALYSE
 # L’objectif de cette analyse est de comprendre la répartition géographique des niveaux de vie et d’identifier les disparités socio-économiques entre territoires. À partir du revenu médian, du taux de pauvreté et des indices d’inégalités on voudrait être capable de :
 # - Mesurer les contrastes régionaux entre zones aisées et zones défavorisées
